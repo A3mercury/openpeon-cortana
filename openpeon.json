@@ -2,7 +2,7 @@
     "cesp_version": "1.0",
     "name": "cortana_pack",
     "display_name": "Cortana Pack",
-    "version": "1.0.0",
+    "version": "1.0.3",
     "author": {
         "name": "Austin Andrews",
         "github": "A3mercury"
@@ -79,10 +79,6 @@
                 {
                     "file": "sounds/WhatAreYouDoing.mp3",
                     "label": "What the hell are you doing?"
-                },
-                {
-                    "file": "sounds/WhatAreYouTalking.mp3",
-                    "label": "What are you talking about?"
                 }
             ]
         }
